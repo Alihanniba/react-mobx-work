@@ -8,7 +8,7 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
 import { isProduction } from "./utils/constants";
-import stores from "./stores/stores";
+// import stores from "./stores/stores";
 import './index.css';
 
 const store = rehydrate();
