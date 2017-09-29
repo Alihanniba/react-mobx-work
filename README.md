@@ -99,3 +99,5 @@
 页面效果
 
 ![](https://static.notion-static.com/803317cd09e74fb0be06ced513bc1205/Untitled)
+
+[欢迎issue讨论](https://github.com/alihanniba/react-mobx-work/issues)
